@@ -1,0 +1,7 @@
+.cache/
+Include/
+Lib/
+Scripts/
+__pycache__/
+man/
+pip-selfcheck.json

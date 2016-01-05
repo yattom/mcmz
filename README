@@ -1,0 +1,7 @@
+Minecraft Maze Builder
+
+Well, no, this program does not create a maze in Minecraft.
+It produces a blueprint (map) for you to build a maze by hand, though.
+
+Run with Python 3.5.
+> python mcmz.py
